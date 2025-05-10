@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo [Seu Nome] e sou desenvolvedor front-end em formação, do Brasil.</p>
+<p align="left">Me chamo Jônatas Andrade e sou desenvolvedor front-end em formação, do Brasil.</p>
 
 ###
 
